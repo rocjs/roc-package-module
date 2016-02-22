@@ -54,7 +54,7 @@
     "babel-plugin-transform-es2015-unicode-regex": "~6.5.0",
     "babel-plugin-transform-export-extensions": "^6.5.0",
     "babel-plugin-transform-object-rest-spread": "~6.5.0",
-    "eslint": "~2.2.0",
+    "eslint": "~1.10.3",
     "eslint-config-vgno": "~5.0.0",
     "npm-check-updates": "~2.5.8",
     "rimraf": "~2.5.2"

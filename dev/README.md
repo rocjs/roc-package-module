@@ -11,9 +11,10 @@ Please read the esdocs for details here (link pending).
 
 ### Development
 Config: `rocPackageConfig`, `rocPackageMetaConfig`  
-Commands: `build`  
+Commands: `build`, `dev`  
 
-`build` transpiles your source code to the provided target; `es5` or `es6`.
+`build` transpiles your source code to the provided target; `es5` or `es6`.  
+`dev` transpiles your source code to the provided target and watches for changes; `es5` or `es6`.
 
 ### Runtime
 Used with [roc-package-module](https://github.com/rocjs/roc-package-module/blog/master/README.md)

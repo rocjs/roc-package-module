@@ -22,7 +22,8 @@
   "keywords": [
     "roc",
     "roc-package",
-    "babel"
+    "babel",
+    "roc-dev"
   ],
   "repository": {
     "type": "git",
@@ -42,7 +43,7 @@
     "roc-package-module": "^1.0.0-beta"
 },
   "devDependencies": {
-    "babel-eslint": "5.0.0",
+    "babel-eslint": "~5.0.0",
     "babel-plugin-transform-async-to-generator": "~6.5.0",
     "babel-plugin-transform-es2015-destructuring": "~6.5.0",
     "babel-plugin-transform-es2015-function-name": "~6.5.0",
